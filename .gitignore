@@ -1,0 +1,6 @@
+*.pyc
+*.db
+media_files/*.jpg
+media_files/*.png
+# Project exclude paths
+/venv/
